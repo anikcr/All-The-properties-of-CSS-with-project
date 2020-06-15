@@ -1,0 +1,22 @@
+.anik{
+
+width: 200px;
+height: 200px;
+background: yellow;
+border:2px solid red;
+margin: 150px auto;
+/*
+transform:translate(100px,100px);
+*/
+/*
+transform:translateX(300px);
+*/
+/*
+transform:rotate(30deg);
+*/
+/*
+transform:scale(2);
+*/
+transform: skew(45deg);
+
+}

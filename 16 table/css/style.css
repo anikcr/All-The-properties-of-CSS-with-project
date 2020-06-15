@@ -1,0 +1,40 @@
+.tab  table, td, th{
+
+    border:1px solid #fff;
+    text-align: left;
+
+}
+.tab table{
+
+	width: 100%;
+	border-collapse: collapse;
+	color: green;
+
+
+}
+.tab th, td{
+
+	padding:10px;
+}
+.tab3  table, td, th{
+
+    border:1px solid #ddd;
+    text-align: left;
+}
+.tab3 table{
+
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 30px;
+	color:orange;
+
+
+}
+.tab3 th, td{
+
+	padding:10px;
+}
+.tab3 th{
+	color:red;
+
+}

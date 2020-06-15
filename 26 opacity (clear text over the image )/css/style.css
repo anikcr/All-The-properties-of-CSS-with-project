@@ -1,0 +1,16 @@
+.bg{
+
+	width: 500px;
+	height: 600px;
+	background: url('../Capture.PNG') no-repeat center /cover;
+	overflow: hidden;
+}
+.box p{
+	color: orange;
+
+	text-align: center;
+	background: #fff;
+	padding: 30px;
+	opacity: 0.5;
+	margin-top: 50px;
+}

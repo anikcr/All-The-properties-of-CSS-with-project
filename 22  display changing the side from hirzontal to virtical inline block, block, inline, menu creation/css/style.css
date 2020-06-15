@@ -1,0 +1,61 @@
+
+body{
+
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	background: yellow;
+}
+.menu{
+	background: red;
+	margin-top: 0;
+
+}
+ul{
+	margin:0;
+	padding: 0;
+	text-align: center;
+}
+ul li{
+
+	display: inline-block;
+	padding: 15px 40px;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+}
+ul li:hover{
+	background: blue;
+}
+ul li:hover a{
+	color: orange;
+}
+
+
+span.a{
+
+    width: 100px;
+    height: 100px;
+    display: inline;
+	background: blue;
+	border: 1px solid red;
+	padding: 5px;
+}
+span.b{
+
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+	background: blue;
+	border: 1px solid red;
+	padding: 5px;
+}
+span.c{
+    width: 100px;
+    height: 100px;
+    display: block;
+	background: blue;
+	border: 1px solid red;
+	padding: 5px;
+}

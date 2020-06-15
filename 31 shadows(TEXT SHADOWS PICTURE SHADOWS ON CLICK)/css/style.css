@@ -1,0 +1,29 @@
+h2{
+
+	font-size: 60px;
+	text-align: center;
+	text-shadow: -1px 0 red, 0 1px green, 1px 0 orange, 0 -1px blue; 
+}
+.anik img{
+	width: 100%
+}
+.anik{
+	width: 400px;
+	
+	margin: auto;
+	border:3px solid red;
+
+}
+.container{
+	padding: 10px;
+}
+.anik h3{
+	font-size: 30px;
+	margin: 0;
+	text-align: center;
+	
+
+}
+.anik:hover{
+		box-shadow: 10px 20px 10px rgba(0,0,0,1),  -10px 20px 10px rgba(0,0,0,0.2);
+}

@@ -1,0 +1,12 @@
+p::first-letter{
+	color: red;
+	font-size: 100px;
+}
+h2::before{
+
+	content: url(../image/download.jpg);
+}
+h2::after{
+
+	content: url(../image/download.jpg);
+}

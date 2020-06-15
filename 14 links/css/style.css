@@ -1,0 +1,24 @@
+a:link{
+
+
+	text-decoration:none;
+	color:white;
+	background:red;
+	font-family: initial;
+	font-size: 15px;
+	padding: 10px 20px;
+}
+
+a:hover{
+
+
+	background: yellow;
+	color: blue;
+}
+a:active{
+	background: green;
+	color: orange;
+
+
+
+}
